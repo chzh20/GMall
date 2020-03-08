@@ -20,6 +20,10 @@ Rails.application.routes.draw do
      member do
        post :add_to_cart
      end
+
+     collection do
+       get :search
+     end
    end
   
   resources :carts do

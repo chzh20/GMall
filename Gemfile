@@ -40,6 +40,10 @@ gem 'simple_form'
 gem 'font-awesome-rails'
 gem 'mini_magick'
 gem 'carrierwave'
+gem 'ransack'
+gem 'will_paginate'
+gem 'will_paginate-bootstrap'
+gem 'seo_helper'
 gem 'letter_opener', group: :development
 gem 'ancestry'
 group :development, :test do

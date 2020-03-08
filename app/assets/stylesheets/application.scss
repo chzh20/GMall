@@ -1288,3 +1288,23 @@
    }
  }
  
+/*===== search 优化 =====*/
+  .navbar-left {
+     float: initial;
+     width: 300px;
+  }
+
+  .search-id {
+     width: 200px;
+     padding-top: 7px;
+  }
+
+
+
+  .page-wrap {
+     margin-top: 50px;//搜索页面距离顶部的距离
+  }
+
+  .input-group {
+     left: 13px;//搜索栏距离左边距离
+  }
